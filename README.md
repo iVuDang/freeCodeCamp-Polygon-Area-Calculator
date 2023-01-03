@@ -67,7 +67,7 @@ print(rect.get_amount_inside(sq))
 <br>
 
 ## Preview:
-<img src="https://github.com/iVuDang/freeCodeCamp-Budget-App/blob/main/budget%20preview.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/freeCodeCamp-Polygon-Area-Calculator/blob/main/Polygon%20preview.png" width=100% height=100%>
 
 <br>
 
@@ -79,7 +79,7 @@ print(rect.get_amount_inside(sq))
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
-| Replit demo | https://replit.com/@iVuDang/freeCodeCamp-Budget-App-v1#main.py | 
+| Replit demo | https://replit.com/@iVuDang/boilerplate-polygon-area-calculator#shape_calculator.py | 
 
 <br>
 
